@@ -13,7 +13,9 @@ Markup:
 * Legged Robots
 * Differential Robots (Wheeled Robots)
 
-<img src="https://user-images.githubusercontent.com/78234785/171198689-625696f3-718c-4b88-835d-449f85a59914.png" width="400" height="400" class="center">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78234785/171198689-625696f3-718c-4b88-835d-449f85a59914.png" width="400" height="400"> 
+</p>
 
 ## Compatibility with ROS Controllers
 This package works for specific [ros_control](http://wiki.ros.org/ros_control). Here is a list of the controllers that you can use with this package:
