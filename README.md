@@ -22,7 +22,15 @@ Markup :
 Markup: ![picture alt]( "Compatibility")
 
 ## Installation
-
+Markup:
+1. In the terminal, move to the catkin workspace in which you have your robot description package.
+> cd ~/<workspace_name>/src
+2. Clone the github package repository
+> git clone 
+3.
+4. 
+5. 
+6. 
 
 ## Implementation
 You can find tutorials and more information of how you can implement this package for your robots here(link).
