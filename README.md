@@ -7,8 +7,13 @@ You only need a set of joint trajectories and optionally cartesian space traject
 **NOTE**: This package is intended to be used for Gazebo simulations and has not been adapted for real robots at the moment.
 
 ## Robots Morphology
-![Screenshot from 2022-05-31 09-26-37](https://user-images.githubusercontent.com/78234785/171197884-c01b5643-e497-4de2-9ef4-20550322f848.png)
+The pid_tuning package can be used with different robot morphologys: 
+Markup:
+* Robot Manipulators
+* Legged Robots
+* Differential Robots (Wheeled Robots)
 
+<img src="https://user-images.githubusercontent.com/78234785/171198689-625696f3-718c-4b88-835d-449f85a59914.png" width="400" height="400">
 
 ## Compatibility with ROS Controllers
 This package works for specific [ros_control](http://wiki.ros.org/ros_control). Here is a list of the controllers that you can use with this package:
