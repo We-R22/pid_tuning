@@ -7,6 +7,7 @@ You only need a set of joint trajectories and optionally cartesian space traject
 **NOTE**: This package is intended to be used for Gazebo simulations and has not been adapted for real robots at the moment.
 
 ## Robots Morphology
+![Screenshot from 2022-05-31 09-26-37](https://user-images.githubusercontent.com/78234785/171197884-c01b5643-e497-4de2-9ef4-20550322f848.png)
 
 
 ## Compatibility with ROS Controllers
