@@ -1,9 +1,13 @@
 # pid_tuning
 
 ## Description
-With this ROS package you can tune automatically your PID ROS-bassed controllers simultaneously, for both one joint at a time or all the joints of your robot at the same time, in an easy way. You only need a set of joint trajectories and optionally cartesian space trajectories of the robot for a specific task depending of the robot morphology. This is done by using bio-inspired algorithms (ready to use). 
+With this ROS package you can tune automatically your PID ROS-based controllers simultaneously, for both one joint at a time or all the joints of your robot at the same time, in an easy way. This ROS package tackles the problem of pid tuning using as approach a Constrained Numerical Optimization Problem (CNOP) solved by bio-inspired algorithms, that are the baselines of this package (ready to use).
+You only need a set of joint trajectories and optionally cartesian space trajectories of the robot for a specific task. 
 
-## Types of Robots
+**NOTE**: This package is intended to be used for Gazebo simulations and has not been adapted for real robots at the moment.
+
+## Robots Morphology
+
 
 ## Compatibility with ROS Controllers
 This package works for specific [ros_control](http://wiki.ros.org/ros_control). Here is a list of the controllers that you can use with this package:
@@ -21,3 +25,4 @@ Markup: ![picture alt]( "Compatibility")
 
 
 ## Implementation
+You can find tutorials and more information of how you can implement this package for your robots [here](). 
