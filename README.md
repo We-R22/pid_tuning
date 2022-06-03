@@ -7,7 +7,7 @@ You only need a set of joint trajectories and optionally cartesian space traject
 **NOTE**: This package is intended to be used for Gazebo simulations and has not been adapted for real robots at the moment.
 
 ## Robots Morphology
-The pid_tuning package can be used with different robot morphologys: 
+The pid_tuning package can be used with different robot morphologies: 
 </br>a) Legged Robots
 </br>b) Differential Robots (Wheeled Robots)
 </br>c) Robot Manipulators
