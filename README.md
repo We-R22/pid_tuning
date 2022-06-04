@@ -29,7 +29,7 @@ This package works for specific [ros_control](http://wiki.ros.org/ros_control). 
   * joint_velocity_controller.h
 
 <p align="center">
-<img src="ttps://user-images.githubusercontent.com/105941180/172005039-65aca53e-85b2-4caf-a0c5-d22c16dea5de.png" width="400" height="400"> 
+<img src="ttps://user-images.githubusercontent.com/105941180/172005039-65aca53e-85b2-4caf-a0c5-d22c16dea5de.png"> 
 </p>
 
 ## Installation
