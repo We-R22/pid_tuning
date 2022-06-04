@@ -28,7 +28,9 @@ This package works for specific [ros_control](http://wiki.ros.org/ros_control). 
   * joint_position_controller.h
   * joint_velocity_controller.h
 
-Markup: ![picture alt]( "Compatibility")
+file:///home/jacob/Desktop/diagrama%20controladores.png![image](https://user-images.githubusercontent.com/105941180/172005039-65aca53e-85b2-4caf-a0c5-d22c16dea5de.png)
+
+![picture alt]( "Compatibility")
 
 ## Installation
 1. In the terminal, move to the catkin workspace in which you have your robot description package.
