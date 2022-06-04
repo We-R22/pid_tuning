@@ -44,11 +44,11 @@ git clone https://github.com/We-R22/pid_tuning.git
 ```
 cd ~/<workspace_name>
 ```
-5. Compile the workspace
+4. Compile the workspace
 ```
 catkin_make
 ```
-6. Add to the bash
+5. Add to the bash
 ```
 source devel/setup.bash
 ```
