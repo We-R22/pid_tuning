@@ -20,7 +20,7 @@ Where J and M are the discrete trajectories of the joint and cartesian space res
 
 ## Compatibility with ROS Controllers
 This package works for specific [ros_control](http://wiki.ros.org/ros_control). Here is a list of the controllers that you can use with this package:
-Markup : 
+
 * [velocity_controllers](https://github.com/ros-controls/ros_controllers/tree/melodic-devel/velocity_controllers/include/velocity_controllers):
   * joint_position_controller.h
 * [effort_controllers](https://github.com/ros-controls/ros_controllers/tree/melodic-devel/effort_controllers/include/effort_controllers)
