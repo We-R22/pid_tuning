@@ -57,4 +57,4 @@ source devel/setup.bash
 ```
 
 ## Implementation
-You can find tutorials and more information of how you can implement this package for your robots here(link).
+You can find tutorials and more information of how you can implement this package for your robots here https://wiki.ros.org/pid_tuning
