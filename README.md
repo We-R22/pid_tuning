@@ -1,12 +1,10 @@
 # pid_tuning
 
-
-https://github.com/user-attachments/assets/3b4d5579-23cf-471c-a38c-772a10cb409f
-
-
 ## Description
 With this ROS package you can tune automatically your PID ROS-based controllers simultaneously, for both one joint at a time or all the joints of your robot at the same time, in an easy way. This ROS package tackles the problem of pid tuning using as approach a Constrained Numerical Optimization Problem (CNOP) solved by bio-inspired algorithms, that are the baselines of this package (ready to use).
 You only need a set of joint trajectories and optionally cartesian space trajectories of the robot for a specific task. 
+
+https://github.com/user-attachments/assets/3b4d5579-23cf-471c-a38c-772a10cb409f
 
 **NOTE**: This package is intended to be used for Gazebo simulations and has not been adapted for real robots at the moment.
 
